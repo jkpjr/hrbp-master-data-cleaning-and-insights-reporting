@@ -1,0 +1,4 @@
+# HRBP Master Data Cleaning & Workforce Insights 
+## Sabia Group HRBP and People Analytics Dataset (Kaggle)
+
+This project demonstrates an end-to-end HR data governance and reporting workflow using the Sabia Group HRBP and People Analytics Dataset from [Kaggle](https://www.kaggle.com/datasets/samusahr/sabia-hrbp-analytics). Raw employee master records are systematically audited, standardized, and validated to eliminate duplicates, formatting inconsistencies, and missing entries using Microsoft Excel Power Query prior to analysis. The resulting cleaned master roster is then summarized into an executive-ready workforce report to identify trends or anomalies.
